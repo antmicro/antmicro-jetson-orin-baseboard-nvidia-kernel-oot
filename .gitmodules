@@ -12,11 +12,11 @@
 	branch = rel-36
 [submodule "hardware/nvidia/t23x/nv-public"]
 	path = hardware/nvidia/t23x/nv-public
-	url = https://github.com/OE4T/t23x-public-dts.git
+	url = ../antmicro-jetson-orin-baseboard-nvidia-t23x-public-dts.git
 	branch = patches-rel-36
 [submodule "nvidia-oot"]
 	path = nvidia-oot
-	url = https://github.com/OE4T/linux-nv-oot.git
+	url = ../antmicro-jetson-orin-baseboard-nvidia-linux-oot.git
 	branch = patches-rel-36
 [submodule "nvgpu"]
 	path = nvgpu
